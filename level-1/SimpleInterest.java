@@ -4,7 +4,7 @@ public class SimpleInterest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("something");
-
+//level1
         System.out.print("Enter Principal: ");
         double principal = sc.nextDouble();
         System.out.print("Enter Rate: ");
